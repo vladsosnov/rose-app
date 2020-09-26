@@ -456,6 +456,7 @@ footer {
 }
 
 .newsletter-input {
+  position: relative;
   width: 100%;
   max-width: 25rem;
   padding: 1rem;
@@ -465,6 +466,7 @@ footer {
 .newsletter-btn {
   position: absolute;
   top: 50%;
+  right: 5px;
   padding: 1px .6rem;
   margin-left: 9.5rem;
   font-size: 1.6rem;
